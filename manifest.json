@@ -1,7 +1,8 @@
 {
   "name": "Feed The Monkey",
   "short_name": "Monkey",
-  "start_url": "/index.html",
+  "start_url": "index.html",
+  "description": "A PWA: responsive background with draggable images",
   "prefer_related_applications": false,
   "icons": [
     {
