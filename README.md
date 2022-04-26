@@ -10,4 +10,4 @@
   <li>Making the dragged banana image aware of the monkey's position when being dragged</li>
   <li>And a couple of other little things...</li>
 </ol>
-<img src="readme.jpg" alt="monkey"?
+<img src="readme.jpg" alt="monkey" width="100vw" height="auto">
